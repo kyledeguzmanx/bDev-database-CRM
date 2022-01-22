@@ -7,6 +7,7 @@ App Link Here: https://kyledeguzmanx.retool.com/apps/CRM
 
 ## TECHNOLOGY USED
 - Google Sheets  
+- Javascript  
 - Retool Developer Platform  
 
 ## SCREENSHOTS
