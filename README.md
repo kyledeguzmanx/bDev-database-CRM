@@ -12,6 +12,7 @@ App Link Here: https://kyledeguzmanx.retool.com/embedded/public/c86fd791-2737-42
 - Retool Developer Platform  
 
 ## Features
+- Ability to perform CRUD operations on the Database (hosted by Google Sheets) from the applet
 - Dynamic Pie Charts
 - Dynamic Tables
 - Organized Tabbed Containers
