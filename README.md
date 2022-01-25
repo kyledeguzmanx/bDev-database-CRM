@@ -3,7 +3,7 @@
 ## INTRODUCTION
 Build a CRM to manage customer data. 
 
-App Link Here: https://kyledeguzmanx.retool.com/apps/CRM 
+App Link Here: https://kyledeguzmanx.retool.com/embedded/public/c86fd791-2737-4217-80a3-c32980ed7df4 
 
 ## TECHNOLOGY USED
 - Google Sheets  
